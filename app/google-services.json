@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "448804447187",
+    "firebase_url": "https://cobacoba-7cb99.firebaseio.com",
+    "project_id": "cobacoba-7cb99",
+    "storage_bucket": "cobacoba-7cb99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448804447187:android:875826f41b75eba4",
+        "android_client_info": {
+          "package_name": "com.example.android.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448804447187-32fseqt512v424l20qdiqsqebv4j1p9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv6E-EPBu4Cu2TVsWA7LjKI2KxaePRDdw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
